@@ -12,7 +12,7 @@ Pre-interview setup
 ---------------------
 There are two things we'd like you do do in preparation for the technical interview:
 
-1. There is some authorisation setup that takes some time and would be good to get done outside of the technical interview time. We'd like to see this in a step or a Before hook in your implementation of this test framework. We have provided our Spotify account's Basic Auth token in the Candidate Pack you were emailed. You may use any HTTP library you wish for the API calls in this tech test. Please review this guide on how to authorise with Spotify and retrieve an authorisation token that you can use for subsequent calls:
+1. There is some authorisation setup that takes some time and would be good to get done outside of the technical interview time. We'd like to see this in a step or a Before hook in your implementation of this test framework. We have provided Anaplan's Spotify account's Basic Auth credential string in the Candidate Pack you were emailed. You may use any HTTP library you wish for the API calls in this tech test. Please review this guide on how to authorise with Spotify and retrieve an authorisation token that you can use for subsequent calls:
 https://developer.spotify.com/documentation/general/guides/authorization-guide
 
 
