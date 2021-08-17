@@ -19,4 +19,8 @@ https://developer.spotify.com/documentation/general/guides/authorization-guide
 2. After authorisation and authentication has been sorted, we'd like you to write one or two tests in this framework against one of Spotify's endpoints, the documentation for which can be found here:
 https://developer.spotify.com/documentation/web-api/reference/#reference-index
 
-We will talk through your code during the interview and may ask you to write some more tests. 
+We will talk through your code during the interview and may ask you to write some more tests.
+
+Submission
+---------------------
+You can send us your code by either zipping it up and emailing it to our recruiters, or by uploading it to your own Git repo and sending us the link to clone that.
